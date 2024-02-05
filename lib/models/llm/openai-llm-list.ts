@@ -36,10 +36,10 @@ const GPT4: LLM = {
 
 // GPT-3.5 Turbo (UPDATED 1/25/24)
 const GPT3_5Turbo: LLM = {
-  modelId: "gpt-3.5-turbo",
+  modelId: "Creative-g4t",
   modelName: "GPT-3.5 Turbo",
   provider: "openai",
-  hostedId: "gpt-3.5-turbo",
+  hostedId: "Creative-g4t",
   platformLink: OPENAI_PLATORM_LINK,
   imageInput: false
 }
